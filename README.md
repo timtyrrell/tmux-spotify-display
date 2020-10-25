@@ -46,7 +46,7 @@ set `MUSIC_APP` to `iTunes` instead on macOS<Catalina
 
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-    set -g @plugin 'robhurring/tmux-spotify'
+    set -g @plugin 'timtyrrell/tmux-spotify-display'
 
 Hit `prefix + I` to fetch the plugin and source it.
 
